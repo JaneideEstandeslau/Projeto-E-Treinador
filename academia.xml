@@ -1,0 +1,62 @@
+<treinos.Academia>
+  <exercicios>
+    <treinos.Aerobico>
+      <nome>bnvnbv</nome>
+      <tipo>Aerobico</tipo>
+    </treinos.Aerobico>
+    <treinos.Anaerobico>
+      <nome>vnfghfg</nome>
+      <tipo>Anaer�bico</tipo>
+      <grupoMuscular>abdómen</grupoMuscular>
+      <tempoPara10repeticoes>3</tempoPara10repeticoes>
+    </treinos.Anaerobico>
+    <treinos.Anaerobico>
+      <nome>jjjjj</nome>
+      <tipo>Anaeróbico</tipo>
+      <grupoMuscular>tríceps</grupoMuscular>
+      <tempoPara10repeticoes>3</tempoPara10repeticoes>
+    </treinos.Anaerobico>
+  </exercicios>
+  <treinos/>
+  <alunos>
+    <treinos.Aluno>
+      <nome>Thiago Vanilson</nome>
+      <sexo>Masculino</sexo>
+      <idade>27</idade>
+      <identidade>1.111.111</identidade>
+      <CPF>222.222.222-22</CPF>
+      <dataDeCadastro>17/11/2017</dataDeCadastro>
+      <email>thiago112634@gmail.com</email>
+      <endereco>asjdkdsjgjfd</endereco>
+      <telefone>(11) 1 1111-1111</telefone>
+      <treinosDoAluno>
+        <null/>
+        <treinos.Treino>
+          <exerciciosDoTreino/>
+          <nomeDoTreino>Não Treinar</nomeDoTreino>
+        </treinos.Treino>
+        <treinos.Treino>
+          <exerciciosDoTreino/>
+          <nomeDoTreino>Não Treinar</nomeDoTreino>
+        </treinos.Treino>
+        <treinos.Treino>
+          <exerciciosDoTreino/>
+          <nomeDoTreino>Não Treinar</nomeDoTreino>
+        </treinos.Treino>
+        <treinos.Treino>
+          <exerciciosDoTreino/>
+          <nomeDoTreino>Não Treinar</nomeDoTreino>
+        </treinos.Treino>
+        <treinos.Treino>
+          <exerciciosDoTreino/>
+          <nomeDoTreino>Não Treinar</nomeDoTreino>
+        </treinos.Treino>
+        <treinos.Treino>
+          <exerciciosDoTreino/>
+          <nomeDoTreino>Não Treinar</nomeDoTreino>
+        </treinos.Treino>
+      </treinosDoAluno>
+    </treinos.Aluno>
+  </alunos>
+  <arquivo>academia.xml</arquivo>
+</treinos.Academia>
